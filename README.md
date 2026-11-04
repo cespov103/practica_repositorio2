@@ -1,7 +1,7 @@
-#PRACTICA REPOSITORIO 2
+# PRACTICA REPOSITORIO 2
 Esto es un ejercicio de practica.
 
-##Demo
+## Demo
 Esto es un ejercicio de practica.
 
 perfil cpoveda:[Click aqui](https:google.com)
